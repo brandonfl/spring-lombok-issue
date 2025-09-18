@@ -2,7 +2,7 @@
 
 ## Used versions
 
-- Spring Boot Starter 3.5.5
+- Spring Boot Starter 3.5.6
 - Lombok 1.18.42
 - Java 17
 
